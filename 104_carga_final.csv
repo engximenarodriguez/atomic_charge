@@ -1,7 +1,7 @@
 compuesto,fase,carga_atomica
-89,gas,-0.0745
-89,agua,-0.1223
-89,decalina,-0.0945
+CA 89,gas,-0.0745
+CA 89,agua,-0.1223
+CA 89,decalina,-0.0945
 90,gas,-0.0722
 90,agua,-0.1194
 90,decalina,-0.0919
