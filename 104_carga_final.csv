@@ -53,6 +53,9 @@ CA 92,decalina,-0.0734
 CA 93,gas,-0.0507
 CA 93,agua,-0.0688
 CA 93,decalina,-0.0926
+CA 7,gas,0.0642
+CA 7,agua,-0.0882
+CA 7,decalina,-0.0632
 CA 8,gas,-0.0408
 CA 8,agua,-0.0799
 CA 8,decalina,-0.0564
@@ -302,9 +305,6 @@ CA 43,decalina,0.0519
 CA 17,gas,0.0601
 CA 17,agua,0.0417
 CA 17,decalina,0.0514
-CA 7,gas,0.0642
-CA 7,agua,-0.0882
-CA 7,decalina,-0.0632
 CA 20,gas,0.0642
 CA 20,agua,0.0481
 CA 20,decalina,0.0572
